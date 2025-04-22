@@ -2,4 +2,4 @@ This project delivers actionable insights through analysis of customer preferenc
 -Analyzing customer behavior to refine marketing.
 -Identifying top-selling products for targeted strategies.
 -Enhancing operational efficiency through data backed recommendations.
-- Enabling strategic decisions for revenue growth.
+-Enabling strategic decisions for revenue growth.
