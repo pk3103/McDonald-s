@@ -7,7 +7,7 @@ Skills: Microsoft Excel · Microsoft PowerPoint · Canva · Microsoft Power Quer
 
 Business questions addressed in the analysis:
 
--What is the total sales revenue for each category of menu items?
+-What is the total sales revenue for each category of menu items?< br / >
 -How many orders are placed each day?
 -Which menu item is the most frequently ordered?
 -What menu items generate the total revenue?
